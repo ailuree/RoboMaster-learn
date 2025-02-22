@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtool.a CMakeFiles/tool.dir/calibration/calibrations.cpp.o CMakeFiles/tool.dir/debug/camera_parms_debug.cpp.o
+/usr/bin/ranlib libtool.a

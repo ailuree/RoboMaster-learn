@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/intelnuc/Documents/xyc de bie dong (copy)/hikvision/tool/calibration/calibrations.cpp
+
+/home/intelnuc/Documents/xyc de bie dong (copy)/hikvision/tool/debug/camera_parms_debug.cpp
+

@@ -1,0 +1,3 @@
+/media/hao/KESU/temp/vgd/1-A-2025/Train_2025/opencv/Z-opencv/code/demo/build/CMakeFiles/otest.dir
+/media/hao/KESU/temp/vgd/1-A-2025/Train_2025/opencv/Z-opencv/code/demo/build/CMakeFiles/edit_cache.dir
+/media/hao/KESU/temp/vgd/1-A-2025/Train_2025/opencv/Z-opencv/code/demo/build/CMakeFiles/rebuild_cache.dir

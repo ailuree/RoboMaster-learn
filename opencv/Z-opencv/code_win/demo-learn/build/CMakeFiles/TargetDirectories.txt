@@ -1,0 +1,3 @@
+G:/temp/vgd/1-A-2025/Train_2025/opencv/Z-opencv/code_win/demo-learn/build/CMakeFiles/otest.dir
+G:/temp/vgd/1-A-2025/Train_2025/opencv/Z-opencv/code_win/demo-learn/build/CMakeFiles/edit_cache.dir
+G:/temp/vgd/1-A-2025/Train_2025/opencv/Z-opencv/code_win/demo-learn/build/CMakeFiles/rebuild_cache.dir

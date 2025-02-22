@@ -1,0 +1,3 @@
+/media/hao/KESU/temp/vgd/1-A-2025/培训2025/opencv/Z-opencv/code/demo-gpu/build/CMakeFiles/otest.dir
+/media/hao/KESU/temp/vgd/1-A-2025/培训2025/opencv/Z-opencv/code/demo-gpu/build/CMakeFiles/edit_cache.dir
+/media/hao/KESU/temp/vgd/1-A-2025/培训2025/opencv/Z-opencv/code/demo-gpu/build/CMakeFiles/rebuild_cache.dir
